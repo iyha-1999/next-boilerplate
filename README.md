@@ -18,9 +18,7 @@ yarn add sass --save-dev
 yarn add swr
 ```
 
-```
 ## src ディレクトリ以下の構成
-```
 
 - `components/`
   - 「見た目」を定義する UI コンポーネント (`.tsx`) を配置。
